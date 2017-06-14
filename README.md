@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-Quinn is who i am i like videogames and batch
+Quinn is who I am I like videogames and batch coding
